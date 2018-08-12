@@ -1,15 +1,15 @@
 * Watch sports
-    * Soccer
-    * Basketball
-* Play Videogames
+    * Soccer :soccer: 
+    * Basketball :basketball:
+* Play Videogames :play:
     * Fifa
     * Crash
     * Uncharted
-* Read books
+* Read books :book:
     * Origins
     * City of Ember
     * Piensa y Hazte Rico
-* Program
+* Program :computer:
     * SQL
     * Python
     * C++
